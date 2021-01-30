@@ -1,0 +1,8 @@
+as esu jokubas
+mano katinas yra vardu grikis
+jam yra 14 m.
+double space po sito  klaida?
+iskart newlineas
+
+hello world
+lyg ir viskas veikia
